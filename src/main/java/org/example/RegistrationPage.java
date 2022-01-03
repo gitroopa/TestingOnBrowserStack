@@ -42,6 +42,8 @@ public class RegistrationPage extends BrowserFactory{
         Assert.assertEquals(completionMessage,"Your registration completed");
         System.out.println("Hurray registration is complete");
         //utils.closeBrowser();
+        System.out.println("hi to test this on the git");
+        System.out.println("hi to I am using Branch to modify teston the git");
     }
 
 }
