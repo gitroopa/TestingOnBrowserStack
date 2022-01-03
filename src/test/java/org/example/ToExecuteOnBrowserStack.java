@@ -15,5 +15,6 @@ public class ToExecuteOnBrowserStack {
         utils.navigate();
         registerPage.registration();
         System.out.println("Hey GOt this Browser stack");
+        System.out.println("Hey GOt this for Browser stack");
     }
 }
