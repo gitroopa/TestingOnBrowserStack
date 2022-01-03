@@ -12,6 +12,7 @@ public class ToExecuteOnBrowserStack {
     @Test
     public void registerFromBrowserStack() throws MalformedURLException, InterruptedException {
         createDriverInstance();
+        System.out.println("navigating to browserStack");
         utils.navigate();
         registerPage.registration();
         System.out.println("Hey GOt this Browser stack");
