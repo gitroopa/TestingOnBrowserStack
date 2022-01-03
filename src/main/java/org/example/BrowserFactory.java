@@ -9,8 +9,8 @@ import java.net.URL;
 
 public class BrowserFactory {
 
-    public static String USERNAME = "roopa_6Cd4zt";
-    public static String AUTOMATE_KEY = "xRmke7viBh9keDcMHpvg";
+    public static String USERNAME = "USerName";
+    public static String AUTOMATE_KEY = "Key";
     public static final String URL = "https://" + USERNAME + ":" + AUTOMATE_KEY + "@hub-cloud.browserstack.com/wd/hub";
 
     static WebDriver driver;
