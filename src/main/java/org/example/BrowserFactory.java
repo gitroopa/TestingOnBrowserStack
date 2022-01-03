@@ -9,7 +9,7 @@ import java.net.URL;
 
 public class BrowserFactory {
 
-    public static String USERNAME = "USerName";
+    public static String USERNAME = "UserName";
     public static String AUTOMATE_KEY = "Key";
     public static final String URL = "https://" + USERNAME + ":" + AUTOMATE_KEY + "@hub-cloud.browserstack.com/wd/hub";
 
