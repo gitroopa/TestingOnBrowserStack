@@ -14,5 +14,6 @@ public class ToExecuteOnBrowserStack {
         createDriverInstance();
         utils.navigate();
         registerPage.registration();
+        System.out.println("Hey GOt this Browser stack");
     }
 }
